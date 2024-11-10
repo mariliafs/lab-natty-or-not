@@ -1,4 +1,4 @@
-# Imagens de pontos turisticos realistas
+# Imagens de Pontos Turísticos Realistas
 ## 📒 Descrição
 Projeto para criar imagens de pontos turísticos o mais realistas possível, a ponto de não parecerem feitas por IA.
 
