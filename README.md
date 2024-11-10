@@ -14,4 +14,4 @@ Utilizei prompts simples para gerar as imagens. Por exemplo:
 As imagens geradas estão disponíveis na pasta [imagens](https://github.com/mariliafs/lab-natty-or-not/tree/main/imagens)
 
 ## 💭 Reflexão (Opcional)
-nicialmente, tentei utilizar o Bing Image Creator, mas as imagens não ficaram tão boas. Então, mudei para o Leonardo.Ai devido ao seu tema realista superior.
+Inicialmente, tentei utilizar o Bing Image Creator, mas as imagens não ficaram tão boas. Então, mudei para o Leonardo.Ai devido ao seu tema realista superior.
