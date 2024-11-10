@@ -9,7 +9,7 @@ Leonardo.Ai
 Utilizei o prompt bem simples, por ememplo:"uma imagem realista do cristo redentor no Rio de Janeiro, em um dia com muito sol e muitos turistas ao redor"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Disponível no link:
 
 ## 💭 Reflexão (Opcional)
 Tentei utilizar o bing image creator mas asimagens não ficaram muito boas, então muito a ferramenta pois o Leonardo.Ai possui tema realista.
